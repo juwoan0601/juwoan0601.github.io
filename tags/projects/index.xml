@@ -1,38 +1,58 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>projects on Juwan Han</title>
-    <link>https://juwanhan.com/tags/projects/</link>
-    <description>Recent content in projects on Juwan Han</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <lastBuildDate>Thu, 12 Nov 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://juwanhan.com/tags/projects/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>The Cam-less Blackbox Project - SCOOKER</title>
-      <link>https://juwanhan.com/p/the-cam-less-blackbox-project-scooker/</link>
-      <pubDate>Thu, 12 Nov 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://juwanhan.com/p/the-cam-less-blackbox-project-scooker/</guid>
-      <description>&lt;p&gt;Intro of this article&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>Show your Avater in Zepeto World Cup! - Junction X Seoul 2020</title>
-      <link>https://juwanhan.com/p/show-your-avater-in-zepeto-world-cup-junction-x-seoul-2020/</link>
-      <pubDate>Fri, 09 Oct 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://juwanhan.com/p/show-your-avater-in-zepeto-world-cup-junction-x-seoul-2020/</guid>
-      <description>&lt;p&gt;Intro of this article&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>Let&#39;s color the clouds - POSTECH Library Union LAON Idea Hackathon</title>
-      <link>https://juwanhan.com/p/lets-color-the-clouds-postech-library-union-laon-idea-hackathon/</link>
-      <pubDate>Fri, 29 May 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://juwanhan.com/p/lets-color-the-clouds-postech-library-union-laon-idea-hackathon/</guid>
-      <description>&lt;p&gt;Intro of this article&lt;/p&gt;</description>
-    </item>
-    
-  </channel>
+    <channel>
+        <title>projects on Juwan Han</title>
+        <link>https://juwanhan.com/tags/projects/</link>
+        <description>Recent content in projects on Juwan Han</description>
+        <generator>Hugo -- gohugo.io</generator>
+        <language>en-us</language>
+        <lastBuildDate>Thu, 12 Nov 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://juwanhan.com/tags/projects/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>The Cam-less Blackbox Project - SCOOKER</title>
+        <link>https://juwanhan.com/p/the-cam-less-blackbox-project-scooker/</link>
+        <pubDate>Thu, 12 Nov 2020 00:00:00 +0000</pubDate>
+        
+        <guid>https://juwanhan.com/p/the-cam-less-blackbox-project-scooker/</guid>
+        <description>&lt;img src="https://juwanhan.com/p/the-cam-less-blackbox-project-scooker/SCOOKER.JPG" alt="Featured image of post The Cam-less Blackbox Project - SCOOKER" /&gt;&lt;p&gt;Intro of this article&lt;/p&gt;
+&lt;h1 id=&#34;intro&#34;&gt;Intro&lt;/h1&gt;
+&lt;h1 id=&#34;rules&#34;&gt;Rules&lt;/h1&gt;
+&lt;h1 id=&#34;conclusion&#34;&gt;Conclusion&lt;/h1&gt;</description>
+        </item>
+        <item>
+        <title>Show your Avater in Zepeto World Cup! - Junction X Seoul 2020</title>
+        <link>https://juwanhan.com/p/show-your-avater-in-zepeto-world-cup-junction-x-seoul-2020/</link>
+        <pubDate>Fri, 09 Oct 2020 00:00:00 +0000</pubDate>
+        
+        <guid>https://juwanhan.com/p/show-your-avater-in-zepeto-world-cup-junction-x-seoul-2020/</guid>
+        <description>&lt;img src="https://juwanhan.com/p/show-your-avater-in-zepeto-world-cup-junction-x-seoul-2020/ZepetoWorldCup.JPG" alt="Featured image of post Show your Avater in Zepeto World Cup! - Junction X Seoul 2020" /&gt;&lt;p&gt;Intro of this article&lt;/p&gt;
+&lt;h1 id=&#34;intro&#34;&gt;Intro&lt;/h1&gt;
+&lt;h1 id=&#34;rules&#34;&gt;Rules&lt;/h1&gt;
+&lt;h1 id=&#34;conclusion&#34;&gt;Conclusion&lt;/h1&gt;</description>
+        </item>
+        <item>
+        <title>Let&#39;s color the clouds - POSTECH Library Union LAON Idea Hackathon</title>
+        <link>https://juwanhan.com/p/lets-color-the-clouds-postech-library-union-laon-idea-hackathon/</link>
+        <pubDate>Fri, 29 May 2020 00:00:00 +0000</pubDate>
+        
+        <guid>https://juwanhan.com/p/lets-color-the-clouds-postech-library-union-laon-idea-hackathon/</guid>
+        <description>&lt;img src="https://juwanhan.com/p/lets-color-the-clouds-postech-library-union-laon-idea-hackathon/skycoloring.JPG" alt="Featured image of post Let&#39;s color the clouds - POSTECH Library Union LAON Idea Hackathon" /&gt;&lt;p&gt;Intro of this article&lt;/p&gt;
+&lt;h1 id=&#34;intro&#34;&gt;Intro&lt;/h1&gt;
+&lt;p&gt;&lt;img src=&#34;https://juwanhan.com/p/lets-color-the-clouds-postech-library-union-laon-idea-hackathon/profile_skycoloring.JPG&#34;
+	width=&#34;1216&#34;
+	height=&#34;756&#34;
+	srcset=&#34;https://juwanhan.com/p/lets-color-the-clouds-postech-library-union-laon-idea-hackathon/profile_skycoloring_hu703fb9dff318081c89de1de4167dd036_66228_480x0_resize_q75_box.JPG 480w, https://juwanhan.com/p/lets-color-the-clouds-postech-library-union-laon-idea-hackathon/profile_skycoloring_hu703fb9dff318081c89de1de4167dd036_66228_1024x0_resize_q75_box.JPG 1024w&#34;
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;The first Page of Presentation, POSTECH Library Union LAON Idea Hackathon Team FIAT LUX&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;160&#34;
+		data-flex-basis=&#34;386px&#34;
+	
+&gt;&lt;/p&gt;
+&lt;h1 id=&#34;rules&#34;&gt;Rules&lt;/h1&gt;
+&lt;h1 id=&#34;conclusion&#34;&gt;Conclusion&lt;/h1&gt;</description>
+        </item>
+        
+    </channel>
 </rss>

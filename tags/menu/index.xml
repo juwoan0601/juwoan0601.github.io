@@ -1,20 +1,21 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>menu on Juwan Han</title>
-    <link>https://juwanhan.com/tags/menu/</link>
-    <description>Recent content in menu on Juwan Han</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <lastBuildDate>Sun, 17 Nov 2019 00:00:00 +0000</lastBuildDate><atom:link href="https://juwanhan.com/tags/menu/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>What should I eat today? - CSED201 OOP</title>
-      <link>https://juwanhan.com/p/what-should-i-eat-today-csed201-oop/</link>
-      <pubDate>Sun, 17 Nov 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://juwanhan.com/p/what-should-i-eat-today-csed201-oop/</guid>
-      <description>&lt;p&gt;Intro of this article&lt;/p&gt;</description>
-    </item>
-    
-  </channel>
+    <channel>
+        <title>menu on Juwan Han</title>
+        <link>https://juwanhan.com/tags/menu/</link>
+        <description>Recent content in menu on Juwan Han</description>
+        <generator>Hugo -- gohugo.io</generator>
+        <language>en-us</language>
+        <lastBuildDate>Sun, 17 Nov 2019 00:00:00 +0000</lastBuildDate><atom:link href="https://juwanhan.com/tags/menu/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>What should I eat today? - CSED201 OOP</title>
+        <link>https://juwanhan.com/p/what-should-i-eat-today-csed201-oop/</link>
+        <pubDate>Sun, 17 Nov 2019 00:00:00 +0000</pubDate>
+        
+        <guid>https://juwanhan.com/p/what-should-i-eat-today-csed201-oop/</guid>
+        <description>&lt;img src="https://juwanhan.com/p/what-should-i-eat-today-csed201-oop/WhatDoYouEat.JPG" alt="Featured image of post What should I eat today? - CSED201 OOP" /&gt;&lt;p&gt;Intro of this article&lt;/p&gt;
+&lt;h1 id=&#34;intro&#34;&gt;Intro&lt;/h1&gt;
+&lt;h1 id=&#34;snap-shot&#34;&gt;Snap-Shot&lt;/h1&gt;</description>
+        </item>
+        
+    </channel>
 </rss>

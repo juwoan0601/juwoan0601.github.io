@@ -1,20 +1,21 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>VR on Juwan Han</title>
-    <link>https://juwanhan.com/tags/vr/</link>
-    <description>Recent content in VR on Juwan Han</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <lastBuildDate>Sun, 30 May 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://juwanhan.com/tags/vr/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Meta-verse for Engineer - Meta-Smith</title>
-      <link>https://juwanhan.com/p/meta-verse-for-engineer-meta-smith/</link>
-      <pubDate>Sun, 30 May 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://juwanhan.com/p/meta-verse-for-engineer-meta-smith/</guid>
-      <description>&lt;p&gt;Intro of this article&lt;/p&gt;</description>
-    </item>
-    
-  </channel>
+    <channel>
+        <title>VR on Juwan Han</title>
+        <link>https://juwanhan.com/tags/vr/</link>
+        <description>Recent content in VR on Juwan Han</description>
+        <generator>Hugo -- gohugo.io</generator>
+        <language>en-us</language>
+        <lastBuildDate>Sun, 30 May 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://juwanhan.com/tags/vr/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>Meta-verse for Engineer - Meta-Smith</title>
+        <link>https://juwanhan.com/p/meta-verse-for-engineer-meta-smith/</link>
+        <pubDate>Sun, 30 May 2021 00:00:00 +0000</pubDate>
+        
+        <guid>https://juwanhan.com/p/meta-verse-for-engineer-meta-smith/</guid>
+        <description>&lt;img src="https://juwanhan.com/p/meta-verse-for-engineer-meta-smith/metaSmith.JPG" alt="Featured image of post Meta-verse for Engineer - Meta-Smith" /&gt;&lt;p&gt;Intro of this article&lt;/p&gt;
+&lt;h1 id=&#34;intro&#34;&gt;Intro&lt;/h1&gt;
+&lt;h1 id=&#34;snap-shot&#34;&gt;Snap-Shot&lt;/h1&gt;</description>
+        </item>
+        
+    </channel>
 </rss>

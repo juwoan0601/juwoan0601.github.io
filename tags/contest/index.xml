@@ -1,22 +1,38 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>contest on Juwan Han</title>
-    <link>https://juwanhan.com/tags/contest/</link>
-    <description>Recent content in contest on Juwan Han</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <lastBuildDate>Fri, 14 Jan 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://juwanhan.com/tags/contest/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>COC CAMPUS - Metaverse Campus Contest</title>
-      <link>https://juwanhan.com/p/coc-campus-metaverse-campus-contest/</link>
-      <pubDate>Fri, 14 Jan 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://juwanhan.com/p/coc-campus-metaverse-campus-contest/</guid>
-      <description>The Metaverse Campus project with ZEPETO-Build It
-Intro Start at 13.10.2021.
-Snap-Shot </description>
-    </item>
-    
-  </channel>
+    <channel>
+        <title>contest on Juwan Han</title>
+        <link>https://juwanhan.com/tags/contest/</link>
+        <description>Recent content in contest on Juwan Han</description>
+        <generator>Hugo -- gohugo.io</generator>
+        <language>en-us</language>
+        <lastBuildDate>Fri, 14 Jan 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://juwanhan.com/tags/contest/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>COC CAMPUS - Metaverse Campus Contest</title>
+        <link>https://juwanhan.com/p/coc-campus-metaverse-campus-contest/</link>
+        <pubDate>Fri, 14 Jan 2022 00:00:00 +0000</pubDate>
+        
+        <guid>https://juwanhan.com/p/coc-campus-metaverse-campus-contest/</guid>
+        <description>&lt;img src="https://juwanhan.com/p/coc-campus-metaverse-campus-contest/coccampus.JPG" alt="Featured image of post COC CAMPUS - Metaverse Campus Contest" /&gt;&lt;p&gt;The Metaverse Campus project with &lt;a class=&#34;link&#34; href=&#34;https://studio.zepeto.me/kr/products/buildit&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;ZEPETO-Build It&lt;/a&gt;&lt;/p&gt;
+&lt;h1 id=&#34;intro&#34;&gt;Intro&lt;/h1&gt;
+&lt;p&gt;Start at 13.10.2021.&lt;/p&gt;
+&lt;h1 id=&#34;snap-shot&#34;&gt;Snap-Shot&lt;/h1&gt;
+&lt;p&gt;&lt;img src=&#34;https://juwanhan.com/p/coc-campus-metaverse-campus-contest/coccampus.JPG&#34;
+	width=&#34;1616&#34;
+	height=&#34;909&#34;
+	srcset=&#34;https://juwanhan.com/p/coc-campus-metaverse-campus-contest/coccampus_hu703fb9dff318081c89de1de4167dd036_118058_480x0_resize_q75_box.JPG 480w, https://juwanhan.com/p/coc-campus-metaverse-campus-contest/coccampus_hu703fb9dff318081c89de1de4167dd036_118058_1024x0_resize_q75_box.JPG 1024w&#34;
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;Main Page of Presentation&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;177&#34;
+		data-flex-basis=&#34;426px&#34;
+	
+&gt;&lt;/p&gt;
+</description>
+        </item>
+        
+    </channel>
 </rss>

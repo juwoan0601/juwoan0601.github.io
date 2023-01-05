@@ -1,56 +1,51 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Categories on Juwan Han</title>
-    <link>https://juwanhan.com/categories/</link>
-    <description>Recent content in Categories on Juwan Han</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <lastBuildDate>Fri, 14 Jan 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://juwanhan.com/categories/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Achievement</title>
-      <link>https://juwanhan.com/categories/achievement/</link>
-      <pubDate>Fri, 14 Jan 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://juwanhan.com/categories/achievement/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Award</title>
-      <link>https://juwanhan.com/categories/award/</link>
-      <pubDate>Fri, 14 Jan 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://juwanhan.com/categories/award/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Picnic</title>
-      <link>https://juwanhan.com/categories/picnic/</link>
-      <pubDate>Mon, 12 Nov 2018 00:00:00 +0000</pubDate>
-      
-      <guid>https://juwanhan.com/categories/picnic/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Research</title>
-      <link>https://juwanhan.com/categories/research/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://juwanhan.com/categories/research/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Travel</title>
-      <link>https://juwanhan.com/categories/travel/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://juwanhan.com/categories/travel/</guid>
-      <description></description>
-    </item>
-    
-  </channel>
+    <channel>
+        <title>Categories on Juwan Han</title>
+        <link>https://juwanhan.com/categories/</link>
+        <description>Recent content in Categories on Juwan Han</description>
+        <generator>Hugo -- gohugo.io</generator>
+        <language>en-us</language>
+        <lastBuildDate>Fri, 14 Jan 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://juwanhan.com/categories/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>Achievement</title>
+        <link>https://juwanhan.com/categories/achievement/</link>
+        <pubDate>Fri, 14 Jan 2022 00:00:00 +0000</pubDate>
+        
+        <guid>https://juwanhan.com/categories/achievement/</guid>
+        <description>&lt;img src="https://juwanhan.com/categories/achievement/achieve.jpg" alt="Featured image of post Achievement" /&gt;</description>
+        </item>
+        <item>
+        <title>Award</title>
+        <link>https://juwanhan.com/categories/award/</link>
+        <pubDate>Fri, 14 Jan 2022 00:00:00 +0000</pubDate>
+        
+        <guid>https://juwanhan.com/categories/award/</guid>
+        <description>&lt;img src="https://juwanhan.com/categories/award/award.jpg" alt="Featured image of post Award" /&gt;</description>
+        </item>
+        <item>
+        <title>Picnic</title>
+        <link>https://juwanhan.com/categories/picnic/</link>
+        <pubDate>Mon, 12 Nov 2018 00:00:00 +0000</pubDate>
+        
+        <guid>https://juwanhan.com/categories/picnic/</guid>
+        <description>&lt;img src="https://juwanhan.com/categories/picnic/bicycles.jpg" alt="Featured image of post Picnic" /&gt;</description>
+        </item>
+        <item>
+        <title>Research</title>
+        <link>https://juwanhan.com/categories/research/</link>
+        <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+        
+        <guid>https://juwanhan.com/categories/research/</guid>
+        <description>&lt;img src="https://juwanhan.com/categories/research/research.jpg" alt="Featured image of post Research" /&gt;</description>
+        </item>
+        <item>
+        <title>Travel</title>
+        <link>https://juwanhan.com/categories/travel/</link>
+        <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+        
+        <guid>https://juwanhan.com/categories/travel/</guid>
+        <description>&lt;img src="https://juwanhan.com/categories/travel/travel.jpg" alt="Featured image of post Travel" /&gt;</description>
+        </item>
+        
+    </channel>
 </rss>

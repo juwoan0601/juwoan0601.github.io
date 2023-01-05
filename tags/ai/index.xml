@@ -1,20 +1,35 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>AI on Juwan Han</title>
-    <link>https://juwanhan.com/tags/ai/</link>
-    <description>Recent content in AI on Juwan Han</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <lastBuildDate>Sat, 28 Aug 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://juwanhan.com/tags/ai/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>The Project White Baton - 2021 YEHS Idea Hackathon</title>
-      <link>https://juwanhan.com/p/the-project-white-baton-2021-yehs-idea-hackathon/</link>
-      <pubDate>Sat, 28 Aug 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://juwanhan.com/p/the-project-white-baton-2021-yehs-idea-hackathon/</guid>
-      <description>&lt;p&gt;Intro of this article&lt;/p&gt;</description>
-    </item>
-    
-  </channel>
+    <channel>
+        <title>AI on Juwan Han</title>
+        <link>https://juwanhan.com/tags/ai/</link>
+        <description>Recent content in AI on Juwan Han</description>
+        <generator>Hugo -- gohugo.io</generator>
+        <language>en-us</language>
+        <lastBuildDate>Sat, 28 Aug 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://juwanhan.com/tags/ai/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>The Project White Baton - 2021 YEHS Idea Hackathon</title>
+        <link>https://juwanhan.com/p/the-project-white-baton-2021-yehs-idea-hackathon/</link>
+        <pubDate>Sat, 28 Aug 2021 00:00:00 +0000</pubDate>
+        
+        <guid>https://juwanhan.com/p/the-project-white-baton-2021-yehs-idea-hackathon/</guid>
+        <description>&lt;img src="https://juwanhan.com/p/the-project-white-baton-2021-yehs-idea-hackathon/whitebaton.JPG" alt="Featured image of post The Project White Baton - 2021 YEHS Idea Hackathon" /&gt;&lt;p&gt;Intro of this article&lt;/p&gt;
+&lt;h1 id=&#34;intro&#34;&gt;Intro&lt;/h1&gt;
+&lt;p&gt;&lt;img src=&#34;https://juwanhan.com/p/the-project-white-baton-2021-yehs-idea-hackathon/profile_whitebaton.JPG&#34;
+	width=&#34;658&#34;
+	height=&#34;367&#34;
+	srcset=&#34;https://juwanhan.com/p/the-project-white-baton-2021-yehs-idea-hackathon/profile_whitebaton_hu703fb9dff318081c89de1de4167dd036_25753_480x0_resize_q75_box.JPG 480w, https://juwanhan.com/p/the-project-white-baton-2021-yehs-idea-hackathon/profile_whitebaton_hu703fb9dff318081c89de1de4167dd036_25753_1024x0_resize_q75_box.JPG 1024w&#34;
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;White Baton, 2021 YEHS Idea hackathon&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;179&#34;
+		data-flex-basis=&#34;430px&#34;
+	
+&gt;&lt;/p&gt;
+&lt;h1 id=&#34;snap-shot&#34;&gt;Snap-Shot&lt;/h1&gt;</description>
+        </item>
+        
+    </channel>
 </rss>
